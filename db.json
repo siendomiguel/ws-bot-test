@@ -1,0 +1,86 @@
+[
+  {
+    "ref": "f2864eee-bf79-4726-b667-a38ee3a1a340",
+    "keyword": "23e9114f29de885b60b003113380b421",
+    "answer": "hola",
+    "options": {},
+    "from": "573228417163",
+    "refSerialize": "79e7fc16f7fb85373fd25a99390f44c0"
+  },
+  {
+    "ref": "1ed35752-e562-4817-86c6-69f5885593e1",
+    "keyword": "79e7fc16f7fb85373fd25a99390f44c0",
+    "answer": "hello ?",
+    "options": {},
+    "from": "573228417163",
+    "refSerialize": "3d7af917d2e67ef4c19c4d3b5cefe4d4"
+  },
+  {
+    "ref": "ans_3cbaaca4-1d54-42ff-8b76-21472292fa3c",
+    "keyword": "key_8a6f3f65-06d5-45f5-a5ec-cf80b01e89e7",
+    "answer": "🙌 Hello welcome to this *Chatbot*",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "396a405ff4adca621cde73dcac405eb5",
+    "from": "573228417163"
+  },
+  {
+    "ref": "ans_ca5d471a-415f-41ed-9a1e-2dc640344ae7",
+    "keyword": "ans_3cbaaca4-1d54-42ff-8b76-21472292fa3c",
+    "answer": "I share with you the following links of interest about the project\n👉 *doc* to view the documentation",
+    "options": {
+      "buttons": [],
+      "capture": false,
+      "delay": 800,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "8c492daad855a941003536e564d01853",
+    "from": "573228417163"
+  },
+  {
+    "ref": "ans_21bbd911-b600-4e4d-b17e-61558f271d05",
+    "keyword": "ans_ca5d471a-415f-41ed-9a1e-2dc640344ae7",
+    "answer": "__capture_only_intended__",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 800,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "b643dfeb84009b4ca19e0287bb61f871",
+    "from": "573228417163"
+  },
+  {
+    "ref": "2cab540f-8dca-4296-b1a1-2414033588f2",
+    "keyword": "b643dfeb84009b4ca19e0287bb61f871",
+    "answer": "ok",
+    "options": {},
+    "from": "573228417163",
+    "refSerialize": "5024d8306739a7b2b633ca6e46c22e04"
+  },
+  {
+    "ref": "ans_21bbd911-b600-4e4d-b17e-61558f271d05",
+    "keyword": "ans_ca5d471a-415f-41ed-9a1e-2dc640344ae7",
+    "answer": "You should type *doc*",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 800,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "b643dfeb84009b4ca19e0287bb61f871",
+    "from": "573228417163"
+  }
+]
